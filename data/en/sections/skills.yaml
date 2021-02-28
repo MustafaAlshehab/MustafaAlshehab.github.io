@@ -40,3 +40,7 @@ skills:
 - name: Qt/QML
   logo: "/images/sections/skills/qt.png"
   summary: Used for developing desktop applications.
+
+- name: Jenkins
+  logo: "/images/sections/skills/jenkins.svg"
+  summary: Experienced on setting up Jenkins pipelines to automate the building, testing, and deploying process.
