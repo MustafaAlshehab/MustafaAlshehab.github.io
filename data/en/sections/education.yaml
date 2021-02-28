@@ -1,0 +1,33 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: B.Sc. in Electrical and Computer Engineering
+  icon: fa-graduation-cap
+  timeframe: 2013-2017
+  institution:
+    name: Oregon State University
+    url: "https://oregonstate.edu/"
+  grade: #(optional)
+    scale: GPA
+    achieved: 3.36
+    outOf: 4
+
+- name: Associate in Accounting
+  icon: fa-graduation-cap
+  timeframe: 2008-2010
+  institution:
+    name: Institute of Public Administration
+    url: https://www.ipa.edu.sa/ar-sa/Pages/default.aspx
+  grade: #(optional)
+    scale: GPA
+    achieved: 4.35
+    outOf: 5

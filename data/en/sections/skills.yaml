@@ -1,0 +1,42 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Docker
+  logo: "/images/sections/skills/docker.svg"
+  summary: "Used when needed to deploy and test."
+  url: "https://www.docker.com/"
+
+- name: Linux
+  logo: "/images/sections/skills/linux.png"
+  summary: "Used when needed, capable of writing bash/shell scripts."
+
+- name: Git
+  logo: "/images/sections/skills/git.png"
+  summary: "Experienced with git-based development. Mostly, use Github and BitBucket."
+  url: "https://git-scm.com/"
+
+- name: C/C++
+  logo: "/images/sections/skills/c++.png"
+  summary: "Used for developing firmware and desktop applications using Qt"
+
+- name: Python
+  logo: "/images/sections/skills/python.png"
+  summary: Used for writing up automation scripts.
+
+- name: JavaScript
+  logo: "/images/sections/skills/js.png"
+  summary: Used JavaScript for web and mobile applications.
+
+- name: Qt/QML
+  logo: "/images/sections/skills/qt.png"
+  summary: Used for developing desktop applications.

@@ -1,0 +1,37 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# your projects
+projects:
+  - name: Simple Calculator
+    logo: /images/sections/projects/reactNative.png
+    role: Developer
+    timeline: "May 2019"
+    repo: https://github.com/MustafaAlshehab/simpleCalc # If your project is a public repo on GitHub, then provide this link. it will show star count.
+    #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+    summary: Simple calculator app for iOS and Android using React Native.
+    tags: ["professional", "mobile", "iOS", "Android"]
+
+  - name: Optical Heart Rate Monitor
+    logo: /images/sections/projects/arduino.png
+    role: Developer
+    timeline: "Jun 2019 - Present"
+    repo: https://github.com/MustafaAlshehab/arduino-heart-rate-monitor
+    #url: ""
+    summary: Arduino based embedded application that uses an optical sensor to measure heart rate.
+    tags: ["professional", "Arduino","embedded"]
+
+  - name: Mustafa's Portfolio
+    logo: /images/code.png
+    role: Developer
+    timeline: "2021"
+    repo: https://github.com/MustafaAlshehab/MustafaAlshehab.github.io
+    summary: This website using Hugo static website generator and Toha theme.
+    tags: ["professional", "web","html"]

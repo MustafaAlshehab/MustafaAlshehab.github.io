@@ -1,0 +1,19 @@
+# some information about you
+name: "Mustafa Alshehab"
+nickname: "Mustafa"
+image: "images/profile.jpg"
+
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+
+# give your contact information. they will be used in the footer
+contactInfo:
+  email: "mustafa.alshehab@hotmail.com"
+  phone: "+1(541) 654-7571"
+
+# a summary of what you do
+summary:
+- I am a Software Engineer
+- I work with C/C++, Qt/QML, Python, and JavaScript
+- I love to work on some fun projects
+- I enjoy solving problems
