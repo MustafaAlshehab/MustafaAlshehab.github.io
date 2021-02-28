@@ -8,7 +8,7 @@ on:
 
 jobs:
   deploy:
-    runs-on: ubuntu-18.04
+    runs-on: macos-latest
     steps:
     # checkout to the commit that has been pushed
     - uses: actions/checkout@v2
@@ -20,8 +20,7 @@ jobs:
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2
       with:
-        hugo-version: '0.79.0'
-        extended: true
+        hugo-version: 'latest'
 
     # build website
     - name: Build
@@ -32,5 +31,6 @@ jobs:
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_branch: master # if your main branch is `master` use that here.
+        publish_branch: master
         publish_dir: ./public
+        cname: mustafa-alshehab.com
