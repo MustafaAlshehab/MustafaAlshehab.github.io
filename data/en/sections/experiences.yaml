@@ -26,3 +26,31 @@ experiences:
     - Support, and maintain Strata Developer.            
     - Automate, and support the build process of Strata Developer Studio.
     - Develop Firmware to communicate with Strata Developer Studio.
+
+- company:
+    name: Oregon State University
+    url: "https://oregonstate.edu/"
+    location: Corvallis, Oregon
+    overview: Oregon State is an international public research university that draws people from all 50 states and more than 100 countries.
+  positions:
+  - designation: Computer Science II Teacher Assistance
+    start: Sep 2016
+    end: Mar 2017
+    responsibilities:
+    - Graded and proofread labs and assignment.
+    - conducted office hours to help students with labs and assignment.
+
+- company:
+    name: Alawwal Bank
+    url: "https://www.alawwalbank.com/en/personal"
+    location: Al-Khhobar
+    overview: Alawwal has a long history of providing trusted banking services and innovative financial solutions to customers.
+  positions:
+  - designation: Senior Operation Coordinator
+    start: Sep 2010
+    end: Mar 2012
+    responsibilities:
+      - Issuance and amendment of Letter of Guarantee (L/G) and Letter of Credit (L/C).
+      - Organized and keep track of the filing system.
+      - Established a friendly teamwork environment.
+      - Established a superior customers service.
