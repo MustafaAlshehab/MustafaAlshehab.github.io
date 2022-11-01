@@ -10,12 +10,23 @@ section:
   # hideTitle: true
 
 degrees:
+- name: MS of Computer Science
+  icon: fa-graduation-cap
+  timeframe: 2022-2024
+  institution:
+    name: Arizona State University
+    url: 'https://asu.edu/'
+  grade: #(optional)
+    scale:
+    achieved:
+    outOf:
+
 - name: B.Sc. in Electrical and Computer Engineering
   icon: fa-graduation-cap
   timeframe: 2013-2017
   institution:
     name: Oregon State University
-    url: "https://oregonstate.edu/"
+    url: 'https://oregonstate.edu/'
   grade: #(optional)
     scale: GPA
     achieved: 3.36
