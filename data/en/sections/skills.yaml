@@ -16,6 +16,11 @@ skills:
   summary: "Experienced with using Docker when needed to deploy, test, and to play around in isolated environment."
   url: "https://www.docker.com/"
 
+- name: Kubernetes
+  logo: "/images/sections/skills/kubernetes.png"
+  summary: "Experienced with using k8s to deploy, and manage multiple containers in isolated environment."
+  url: "https://kubernetes.io/"
+
 - name: Linux
   logo: "/images/sections/skills/linux.png"
   summary: "Experienced with Linux, used whenever needed, and capable of writing bash/shell scripts."
