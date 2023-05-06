@@ -8,7 +8,7 @@ on:
 
 jobs:
   deploy:
-    runs-on: macos-10.15
+    runs-on: macos-13
     steps:
     # checkout to the commit that has been pushed
     - uses: actions/checkout@v2
