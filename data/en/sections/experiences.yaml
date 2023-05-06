@@ -21,7 +21,12 @@ experiences:
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end:
     # give some points about what was your responsibilities at the company.
-    # responsibilities:
+    responsibilities:
+      - Maintain and support Intel open-source Container Experience Kit project by proactively identifying and addressing complex issues.
+      - Improved Container Experience Kit code base by suggesting code best practices and documenting it.
+      - Support and maintain Workload Service Framework project by adding, optimizing, and benchmarking various containerized workloads on X86 and ARM platforms.
+      - Started and finalized FAQ Revamped initiative to make it easier and more efficient for everyone to find information for the Workload Service Framework project.
+      - Lead 5G workloads integration, enablement, testing, and optimization on Intel infrastructure
 
 - company:
     name: onsemi
@@ -63,7 +68,8 @@ experiences:
     start: Sep 2010
     end: Mar 2012
     responsibilities:
-      - Issuance and amendment of Letter of Guarantee (L/G) and Letter of Credit (L/C).
-      - Organized and keep track of the filing system.
-      - Established a friendly teamwork environment.
-      - Established a superior customers service.
+ Trade Service Unit: 
+    - issuance and amendment of Letter of Guarantee (L/G) and Letter of Credit (L/C)
+    - Organized and kept a track of the filing system.
+    - Established a friendly and collaborative teamwork environment.
+    - Established a superior customers satisfaction in less than 6 months of taking charge.
