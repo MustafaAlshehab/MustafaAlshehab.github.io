@@ -22,11 +22,11 @@ experiences:
     # end:
     # give some points about what was your responsibilities at the company.
     responsibilities:
-      -	Extended Detection and Response (XDR) workloads integration, enablement, testing, and optimization on Intel infrastructure.
-      -	Support and maintain Workload Service Framework project by adding, optimizing, and benchmarking various containerized workloads on X86 and ARM platforms.
-      -	Maintain and support Intel Container Experience Kit project by proactively identifying and addressing complex issues.
-      -	led the microservices hackathon initiative within our team from its beginning and successfully delivered it to completion on time.
-      -	Started and finalized FAQ Revamped initiative to make it easier and more efficient for everyone to find information for the Workload Service Framework project.
+    -	Extended Detection and Response (XDR) workloads integration, enablement, testing, and optimization on Intel infrastructure.
+    -	Support and maintain Workload Service Framework project by adding, optimizing, and benchmarking various containerized workloads on X86 and ARM platforms.
+    -	Maintain and support Intel Container Experience Kit project by proactively identifying and addressing complex issues.
+    -	led the microservices hackathon initiative within our team from its beginning and successfully delivered it to completion on time.
+    -	Started and finalized FAQ Revamped initiative to make it easier and more efficient for everyone to find information for the Workload Service Framework project.
 
 
 - company:
