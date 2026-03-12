@@ -22,7 +22,7 @@ experiences:
     responsibilities:
     - Lead design, development, and maintenance of the Open Prison Education (OPE) platform, spanning desktop and web applications, tools, and services supporting education across 10 Washington State correctional facilities and 5,000+ students per year in the state of Washington.	
     - Modernized the codebase and repo structure by splitting a monolithic repository into three modular components and rewriting git history, reducing repository size by 99% and accelerating onboarding and day-to-day development.
-    - Designed and implemented AWS EC2 infrastructure for OPE: Linux EC2 for prod/dev servers and Windows EC2 for RDP-based build/test environments, with IP-allowlisted SSH/RDP, SSM, and daily security patching.
+    - "Designed and implemented AWS EC2 infrastructure for OPE: Linux EC2 for prod/dev servers and Windows EC2 for RDP-based build/test environments, with IP-allowlisted SSH/RDP, SSM, and daily security patching."
     - Developed a Python CLI credentials tool that automated student-laptop provisioning via JSON-based configuration with early input validation/error handling, reducing setup time by ~75%; packaged and shipped as a standalone Windows executable.
 
 
