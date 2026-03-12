@@ -11,22 +11,19 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Intel
-    url: "https://intel.com/"
-    location: Portland, Oregon
-    overview: Intel create world-changing technology that improves the life of every person on the planet. Intel put the silicon in Silicon Valley. For more than 50 years, Intel and our people have had a profound influence on the world, driving business and society forward by creating radical innovation that revolutionizes the way we live.
+    name: Washington State Board for Community and Technical Colleges
+    url: "https://www.sbctc.edu/"
+    location: Olympia, Washington
+    overview: The Washington State Board for Community and Technical Colleges (SBCTC) is a state agency that oversees the 34 community and technical colleges in Washington State.
   positions:
-  - designation: Software Engineer
-    start: Dec 2021
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end:
-    # give some points about what was your responsibilities at the company.
+  - designation: Senior Software Engineer
+    start: April 2025
+    end: Present
     responsibilities:
-    - Extended Detection and Response (XDR) workloads integration, enablement, testing, and optimization on Intel infrastructure.
-    - Support and maintain Workload Service Framework project by adding, optimizing, and benchmarking various containerized workloads on X86 and ARM platforms.
-    - Maintain and support Intel Container Experience Kit project by proactively identifying and addressing complex issues.
-    - led the microservices hackathon initiative within our team from its beginning and successfully delivered it to completion on time.
-    - Started and finalized FAQ Revamped initiative to make it easier and more efficient for everyone to find information for the Workload Service Framework project.
+    - Lead design, development, and maintenance of the Open Prison Education (OPE) platform, spanning desktop and web applications, tools, and services supporting education across 10 Washington State correctional facilities and 5,000+ students per year in the state of Washington.	
+    - Modernized the codebase and repo structure by splitting a monolithic repository into three modular components and rewriting git history, reducing repository size by 99% and accelerating onboarding and day-to-day development.
+    - Designed and implemented AWS EC2 infrastructure for OPE: Linux EC2 for prod/dev servers and Windows EC2 for RDP-based build/test environments, with IP-allowlisted SSH/RDP, SSM, and daily security patching.
+    - Developed a Python CLI credentials tool that automated student-laptop provisioning via JSON-based configuration with early input validation/error handling, reducing setup time by ~75%; packaged and shipped as a standalone Windows executable.
 
 
 - company:
@@ -41,10 +38,19 @@ experiences:
     end: Nov 2021
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop new features for Strata Developer Studio.
-    - Support, and maintain Strata Developer.            
-    - Automate, and support the build process of Strata Developer Studio.
-    - Develop Firmware to communicate with Strata Developer Studio.
+    - Led the Hello Strata project end-to-end, accelerating Strata Developer Studio environment setup, deployment, and firmware development workflows to improve developer productivity and user experience. 
+    - Enabled platform support to include bare-metal microcontroller (MCU) targets and contributed across the full development lifecycle—from feature development and validation to release. 
+    - Developed and automated comprehensive test plans for hardware and applications to ensure product quality.
+    - Developed a feature for Strata Developer Studio to communicate with a client wirelessly within the local network, an addition to the existing wired USB connection. Resulting in enhanced user experience and increased customer adoption.
+    - Reduced start of Strata development time by 90% by making an SDK installer with concise documentation.
+    - Reduced building time of Strata Developer Studio by 70% after the initial build, significantly improving development productivity time and reducing operational costs.
+    - Automated deployment end-to-end using Python, Jenkins, Bitbucket Pipelines, and PowerShell, reducing deployment time by 60%.
+    - Reduced dependencies conflict by 50% by eliminating multiple OS build support utilizing Docker containers. 
+    - Developed a firmware for bare-metal MCUs enabling serial communication with Strata Developer Studio increasing the number of Strata enabled MCUs.
+    - Developed React components to show graphical analytics data to be used in the main analytics page.
+    - Automated firmware build process by using Bash scripts, CMake, and a modified VS Code user interface.
+    - Created and maintained Linux Ubuntu Docker image with the tools/dependencies to build firmware.
+
 
 - company:
     name: Oregon State University

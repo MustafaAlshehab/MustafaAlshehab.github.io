@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Engineer
+designation: Senior Software Engineer
 # your company information
 company:
   name: Intel
@@ -18,7 +18,7 @@ company:
 resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'A seasoned software engineer with over of five years of professional industry experience. I’ve expertise in various software development areas like DevOps, web and desktop applications, and embedded systems. My passion for technology drives me to excel in every project. With a proven track record of success, I can work seamlessly with teams or independently. My dynamic leadership style enables me to take charge of projects from inception to production, delivering exceptional results on time and within budget. I thrive under pressure and remain laser-focused on executing project deliverables with the utmost attention to detail.'
+summary: 'Senior software engineer with 8 years of experience building and operating desktop and cloud-backed applications, spanning full-stack development, automation, and DevOps. Known for leading end-to-end delivery, modernizing codebases and pipelines, improving reliability, and collaborating across engineering, QA, and stakeholders through production support.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.

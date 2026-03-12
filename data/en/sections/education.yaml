@@ -10,12 +10,6 @@ section:
   # hideTitle: true
 
 degrees:
-- name: MS of Computer Science
-  icon: fa-graduation-cap
-  timeframe: 2022-2024
-  institution:
-    name: Arizona State University
-    url: https://asu.edu/
 
 - name: B.Sc. in Electrical and Computer Engineering
   icon: fa-graduation-cap
