@@ -11,8 +11,8 @@ section:
 designation: Senior Software Engineer
 # your company information
 company:
-  name: Intel
-  url: "https://www.intel.com/"
+  name: Washington State Board for Community and Technical Colleges
+  url: "https://www.sbctc.edu/"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/resume.pdf"
@@ -40,23 +40,23 @@ socialLinks:
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
 - name: Leadership
-  percentage: 85
+  percentage: 100
   color: blue
-- name: Team Work
-  percentage: 90
   color: yellow
-- name: Communication
-  percentage: 85
+- name: Automation
+  percentage: 100
   color: pink
-- name: Hard Working
-  percentage: 85
+- name: Software Development
+  percentage: 100
   color: green
-- name: Fast Learner
-  percentage: 85
+- name: Firmware Validation
+  percentage: 100
   color: sky
-- name: Problem Solving
-  percentage: 85
+- name: DevOps
+  percentage: 100
   color: orange
+- name: AI
+  percentage: 100
 # you can also provide color code instead of pre-defined color name
 # - name: Example 1
 #   percentage: 75

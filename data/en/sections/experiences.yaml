@@ -25,6 +25,24 @@ experiences:
     - "Designed and implemented AWS EC2 infrastructure for OPE: Linux EC2 for prod/dev servers and Windows EC2 for RDP-based build/test environments, with IP-allowlisted SSH/RDP, SSM, and daily security patching."
     - Developed a Python CLI credentials tool that automated student-laptop provisioning via JSON-based configuration with early input validation/error handling, reducing setup time by ~75%; packaged and shipped as a standalone Windows executable.
 
+- company:
+    name: Intel
+    url: "https://www.intel.com/"
+    location: Portland, Oregon
+    overview: Intel is a technology company that designs and manufactures semiconductors, processors, and other integrated circuits.
+  positions:
+  - designation: Senior Software Engineer
+    start: Dec 2021
+    end: Nov 2024
+    responsibilities:
+    - Led the development of a new solution to fully automate the interaction with Microsoft Partners API, resulting in up to ~75% increased efficiency and fewer errors when distributing submission to OEMs.
+    - Managed multiple nightly Wi‑Fi/Bluetooth testbeds, maintaining 99.9% uptime for internal clients during critical product launches.
+    - Developed and maintained comprehensive workload performance collaterals, ensuring accuracy and timely delivery, to showcase platform features, resulting in increased customer interaction and adaptation.
+    - Improved Wazuh workload execution efficiency by 73%, resulting in a substantial reduction of benchmarking time, validation processes, operational cost, and increased availability of resources.
+    - Identified and reported a security risk in the git history of an external software release, helping safeguard client integrity and prevent costly downstream impact.
+    - Led a successful microservices hackathon, fostering collaboration and reducing redundancy among internal teams by promoting early exposure to microservices and enhancing our internal catalog.
+    - Started and finalized “FAQ Revamped” initiative for the Workload Service Framework project, improving information discoverability and team productivity.
+    - Improved Wazuh workload execution efficiency by 73%, resulting in a substantial reduction of benchmarking time, validation processes, operational cost, and increased availability of resources.
 
 - company:
     name: onsemi
