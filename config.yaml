@@ -74,13 +74,12 @@ params:
     toc:
       enable: true
 
-    # Universal Analytics (UA-) is retired. To enable GA4, set enable: true
-    # and provide a Measurement ID (G-XXXXXXXX).
     analytics:
-      enable: false
+      enable: true
       services:
-        google:
-          id: G-XXXXXXXX
+        enable: true
+        goatCounter:
+          code: mdev
 
   footer:
     enable: true
